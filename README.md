@@ -6,7 +6,6 @@
 Describe the steps for installing dart and flutter on your operating system(Windows, Linux, MacOS)
 
 **Answers**
-Certainly! Here’s a summary of the steps to install Dart and Flutter on Windows:
 
 1. **Install Git:**
    - Download and install Git from [git-scm.com](https://git-scm.com/download/win).
